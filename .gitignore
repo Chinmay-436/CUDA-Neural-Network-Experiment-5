@@ -1,0 +1,14 @@
+﻿# Compiled executable files
+*.exe
+*.obj
+*.o
+
+# CUDA temporary files
+*.cubin
+*.ptx
+*.fatbin
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj*
